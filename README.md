@@ -1,2 +1,3 @@
-# talks
-Collection of resources for my talks
+# Talks
+
+Collection of resources for my talks.
