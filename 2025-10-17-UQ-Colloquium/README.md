@@ -1,9 +1,8 @@
 # Reproducibility and software in academia
 
-https://smp.uq.edu.au/event/session/17487
-
-- **When**: 17 October 2025 11:00am–12:00pm AEST
-- **Where**: University of Queensland
+- ⏰ **When**: 17 October 2025 11:00am–12:00pm AEST
+- 🌎 **Where**: University of Queensland, Bribane, Australia
+- 🔗 **Link**: https://smp.uq.edu.au/event/session/17487
 
 ## Abstract
 
@@ -20,5 +19,12 @@ Reproducibility is a core tenet of science, yet many published results cannot be
 
 ### Materials Design Examples
 
+- PhD thesis [[GitHub Repo](https://github.com/mbercx/phd-thesis)][[Thesis](https://filedn.com/lsOzB8TTUIDz2WkFj8o6qhp/PhD_thesis.pdf)]
 - Materials Cloud Three-Dimensional Structure Database (MC3D) [[Paper](https://arxiv.org/abs/2508.19223)][[Website](https://mc3d.materialscloud.org/)]
 - Superconductivity database [[Paper](https://journals.aps.org/prxenergy/abstract/10.1103/sb28-fjc9)][[Website](https://mc3d.materialscloud.org/?preset=superconductivity)]
+- Aurora battery cycling [[Paper](https://chemrxiv.org/engage/chemrxiv/article-details/6549ec72c573f893f1fb3626)][[Website](https://aiidalab-aurora.readthedocs.io/en/latest/index.html)]
+
+### Software
+
+- Society of RSE: https://society-rse.org/
+- RSE-AUNZ: https://rse-aunz.org/
