@@ -3,6 +3,7 @@
 - ⏰ **When**: 17 October 2025 11:00am–12:00pm AEST
 - 🌎 **Where**: University of Queensland, Bribane, Australia
 - 🔗 **Link**: https://smp.uq.edu.au/event/session/17487
+- 🎞️ **Slides**: [Download](https://github.com/mbercx/talks/releases/download/2025.10.17/UQ-Colloquium.pdf)
 
 ## Abstract
 
