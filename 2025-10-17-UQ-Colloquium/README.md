@@ -28,3 +28,4 @@ Reproducibility is a core tenet of science, yet many published results cannot be
 
 - Society of RSE: https://society-rse.org/
 - RSE-AUNZ: https://rse-aunz.org/
+- [Software development workshop at UQ](https://github.com/mbercx/talks/blob/main/2025-11-11-UQ-SoftDev/README.md#basics-of-software-development-workshop)
