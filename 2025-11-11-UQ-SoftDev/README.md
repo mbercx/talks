@@ -2,7 +2,7 @@
 
 - ⏰ **When**: 11 November 2025 1pm–3pm AEST
 - 🌎 **Where**: (tentatively) Room 06-407, Physics building, University of Queensland, Bribane, Australia
-- 🔗 **Link**: [https://smp.uq.edu.au/event/session/17487](https://mbercx.github.io/softdev-101/)](https://mbercx.github.io/softdev-101/)
+- 🔗 **Link**: [https://mbercx.github.io/softdev-101/](https://mbercx.github.io/softdev-101/)
 - 🎞️ **Slides**: [Google Drive](https://docs.google.com/presentation/d/1z4atL3TfphqK45PkUSaYk-zHmVaxzSDG/edit?usp=sharing&ouid=105431804810940447187&rtpof=true&sd=true)
 
 ## Content
